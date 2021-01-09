@@ -33,7 +33,8 @@ class TodolistsController < ApplicationController
   end
 
 
-
+  def destroy
+  end
 
 
   private
